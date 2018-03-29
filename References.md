@@ -7,3 +7,6 @@
 * https://jekyllrb.com/docs/frontmatter/
 * http://literatureandlatte.com/scrivener/features?os=macOS
 * https://typora.io
+* https://stackoverflow.com/questions/13671328/transfer-gist-repo-to-github/37144960#37144960
+* http://pandoc.org
+* http://fletcherpenney.net/multimarkdown/
