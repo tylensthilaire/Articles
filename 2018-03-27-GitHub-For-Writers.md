@@ -2,7 +2,7 @@
 title:      GitHub For Writers
 author:     Tylen St Hilaire
 date:       2018-03-27
-version:    0.3.0
+version:    0.3.1
 categories: article
 tags:       GitHub, writing
 ©:
@@ -280,7 +280,6 @@ but still acknowledges the original contributor.
 * [Top ten reasons GitHub is a great tool for creative writers](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d)
 * [Import gist to repo](https://stackoverflow.com/questions/13671328/transfer-gist-repo-to-github/37144960#37144960)
 * [Waldir Pimenta's Semantic Linebreaker Tool](https://github.com/waldyrious/semantic-linebreaker)
-
 
 
 ------
