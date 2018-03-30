@@ -36,3 +36,14 @@ as it's fully compatible with GFM
 but has a lot more features 
 (e.g. footnotes and references) 
 and is very well supported.
+
+If you do choose markdown 
+naming your file in the format `yyyy-mm-dd-your-title.md` 
+will make it compatible with [Jekyll](https://jekyllrb.com). 
+Jekyll powers [GitHub Pages](https://pages.github.com), 
+so you can turn any repo into a website.
+You can also add Jekyll-style [YAML frontmatter](https://jekyllrb.com/docs/frontmatter/) to the file, 
+if you want to include important metadata 
+like authors or publish dates. 
+Even if you'll never need a GitHub Page, 
+these conventions are a good best practice.

@@ -1,18 +1,18 @@
-* [ ] Intro
-  * [ ] Benefits over Gdocs?
-* [ ] Tl;dr
-* [ ] Process
-  * [ ] Setup
-    * [x] Create a 'space' (e.g gist)
-    * [x] Choose a format (e.g markdown)
-    * [ ] Basic setup (Jeckyll compatibility)
-  * [ ] Writing
-    * [ ] Advanced setup (scrivener style)
+* [x] Intro
+    * [x] Benefits over Gdocs?
+* [x] Tl;dr
+* [x] Process
+  * [x] Setup
+      * [x] Create a 'space' (e.g gist)
+      * [x] Choose a format (e.g markdown)
+      * [x] Basic setup (Jeckyll compatibility)
+  * [x] Writing
+    * [x] Advanced setup (scrivener style)
     * [x] Semantic line feeds
     * [x] Editing (github flow)
-  * [ ] Collaborating
-    * [ ] Multi-autoring
-    * [ ] Peer review
-  * [ ] Publishing
-* [ ] Resources
-  * [ ] References/credits
+  * [x] Collaborating
+    * [x] Multi-autoring
+    * [x] Peer review
+  * [x] Publishing
+* [x] Resources
+  * [x] References/credits
