@@ -15,4 +15,4 @@
     * [x] Peer review
   * [x] Publishing
 * [ ] Resources
-  * [ ] References/credits
+  * [x] References/credits
