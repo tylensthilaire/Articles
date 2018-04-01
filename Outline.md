@@ -12,7 +12,7 @@
     * [x] Editing (github flow)
   * [x] Collaborating
     * [x] Multi-autoring
-    * [ ] Peer review
+    * [x] Peer review
   * [ ] Publishing
 * [ ] Resources
   * [ ] References/credits
