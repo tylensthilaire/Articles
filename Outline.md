@@ -1,4 +1,4 @@
-* [ ] Intro
+* [x] Intro
   * [ ] Benefits over Gdocs?
 * [ ] Tl;dr
 * [ ] Process
