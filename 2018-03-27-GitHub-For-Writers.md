@@ -285,5 +285,3 @@ but still acknowledges the original contributor.
 ------
 
 *Spotted a mistake or got an improvement? Create an issue on GitHub*
-=======
->>>>>>> parent of 9cf5e0e... Update to create RC-1
