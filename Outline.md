@@ -10,7 +10,7 @@
     * [x] Advanced setup (scrivener style)
     * [x] Semantic line feeds
     * [x] Editing (github flow)
-  * [ ] Collaborating
+  * [x] Collaborating
     * [ ] Multi-autoring
     * [ ] Peer review
   * [ ] Publishing
