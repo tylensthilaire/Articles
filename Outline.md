@@ -6,7 +6,7 @@
     * [x] Create a 'space' (e.g gist)
     * [x] Choose a format (e.g markdown)
     * [x] Basic setup (Jeckyll compatibility)
-  * [ ] Writing
+  * [x] Writing
     * [ ] Advanced setup (scrivener style)
     * [x] Semantic line feeds
     * [x] Editing (github flow)
