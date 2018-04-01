@@ -1,5 +1,5 @@
 * [x] Intro
-  * [ ] Benefits over Gdocs?
+  * [x] Benefits over Gdocs?
 * [x] Tl;dr
 * [ ] Process
   * [ ] Setup
