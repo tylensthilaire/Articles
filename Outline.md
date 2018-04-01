@@ -5,7 +5,7 @@
   * [x] Setup
     * [x] Create a 'space' (e.g gist)
     * [x] Choose a format (e.g markdown)
-    * [ ] Basic setup (Jeckyll compatibility)
+    * [x] Basic setup (Jeckyll compatibility)
   * [ ] Writing
     * [ ] Advanced setup (scrivener style)
     * [x] Semantic line feeds
