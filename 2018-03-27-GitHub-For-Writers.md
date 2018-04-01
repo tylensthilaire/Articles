@@ -2,7 +2,7 @@
 title:      GitHub For Writers
 author:     Tylen St Hilaire
 date:       2018-03-27
-version:    0.3.1
+version:    0.3.2
 categories: article
 tags:       GitHub, writing
 ©:
