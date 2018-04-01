@@ -14,5 +14,5 @@
     * [x] Multi-autoring
     * [x] Peer review
   * [x] Publishing
-* [ ] Resources
+* [x] Resources
   * [x] References/credits
