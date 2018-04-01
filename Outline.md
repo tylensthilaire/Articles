@@ -11,7 +11,7 @@
     * [x] Semantic line feeds
     * [x] Editing (github flow)
   * [x] Collaborating
-    * [ ] Multi-autoring
+    * [x] Multi-autoring
     * [ ] Peer review
   * [ ] Publishing
 * [ ] Resources
