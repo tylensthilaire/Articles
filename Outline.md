@@ -13,6 +13,6 @@
   * [x] Collaborating
     * [x] Multi-autoring
     * [x] Peer review
-  * [ ] Publishing
+  * [x] Publishing
 * [ ] Resources
   * [ ] References/credits
