@@ -2,7 +2,7 @@
   * [x] Benefits over Gdocs?
 * [x] Tl;dr
 * [x] Process
-  * [ ] Setup
+  * [x] Setup
     * [x] Create a 'space' (e.g gist)
     * [x] Choose a format (e.g markdown)
     * [ ] Basic setup (Jeckyll compatibility)
