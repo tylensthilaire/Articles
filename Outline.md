@@ -1,6 +1,6 @@
 * [x] Intro
   * [ ] Benefits over Gdocs?
-* [ ] Tl;dr
+* [x] Tl;dr
 * [ ] Process
   * [ ] Setup
     * [x] Create a 'space' (e.g gist)
