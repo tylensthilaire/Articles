@@ -1,10 +1,12 @@
 ---
-title:      GitHub For Writers
-author:     Tylen St Hilaire
+layout: post
+title:  "GitHub For Writers"
+author: "Tylen St Hilaire"
+categories: [ Github, writing ]
+image: assets/images/5.jpg
+featured: true
 date:       2018-03-27
-version:    0.3.2
-categories: article
-tags:       GitHub, writing
+version:    0.3.3
 ©:
 ---
 
