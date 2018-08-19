@@ -1,15 +1,14 @@
 ---
-layout: post
 title:  "GitHub For Writers"
 author: "Tylen St Hilaire"
-categories: [ Github, writing ]
-image: assets/images/5.jpg
-featured: true
+version: 0.4.0
+date: 2018-08-19
+tags: [ Github, writing ]
 ---
 
 # Github For Writers
 
-GitHub normally used for managing code 
+GitHub is normally used for managing code 
 across large teams, 
 but it's just as good at managing your writing 
 for the same reasons: 
@@ -21,75 +20,83 @@ Sure,
 it's not as frictionless as Google Docs 
 but it allows for a looser writing flow 
 and it's methodical process 
-can actually help you improve your writing, 
-the same way *shisa kanko* (pointing and calling) 
-reduced mistakes on Japanese railways by [85%](https://www.japantimes.co.jp/news/2008/10/21/reference/jr-gestures/#.VL7Xg-d2MTk). 
+could actually help you improve your writing. 
 It also wont [read your private documents](https://www.telegraph.co.uk/technology/2017/11/01/google-reading-docs/) like Google.
 
-```
-**TL;DR**
-Use GitHub and GitFlow for better version control and collaboration and maybe even to improve your writing.
-```
+_**TL;DR**
+Use the GitFlow workflow for better version control, collaboration and to improve your writing._
 
-## Setup
+## Why
+
+<!-- Section TBC -->
+
+* have you ever wanted to try a different plot
+* change something without losing
+* reorganise your manuscript
+* discover and write iteratively
+
+## Getting started
 
 Before you start writing 
-you need to create a place for your prose to live.
-GitHub has two types of 'space' for your document to saved; 
-repos (repositories) and [gists](https://help.github.com/articles/about-gists/) 
-The main difference between a repo and a gist 
-is that repos can contain folders 
-and a gist can't. 
-Secret gists are available for free to all GitHub users, 
-unlike private repos, 
-which makes them ideal for a writer's minimalist use case, 
-but they [aren't private](https://help.github.com/articles/about-gists/#secret-gists) – 
-they have obscure URLs and aren't indexed by search engines 
-but anyone who has the URL can see the contents.
+you need to create a place for your prose to live. 
+GitHub has two types of 'space' for your documents; 
+repos (repositories) and [gists](https://help.github.com/articles/about-gists/), 
+the main difference between them being that
+repos can contain folders and gists can't 
+but pricing and confidentiality is also a factor.
+Secret gists are free for all users, 
+but [aren't completely private](https://help.github.com/articles/about-gists/#secret-gists) – 
+they don't show up publicly anywhere 
+but anyone who discovers the URL _could_ see the contents – 
+private repos on the other hand are completely private
+but require a [premium plan](https://github.com/pricing).
 
-I recommend starting with a secret gist, 
-then importing the gist into it's own directory (folder) 
-in a repo.
-Repos are either completely public or completely private. 
-Because a collaborator can see everything in a repo, 
-it often makes sense to create repos per client or per 'project'.
+For a minimalist use case a secret gist will work fine 
+(you can always import it into a repo later),
+but for professional use repos will be more convenient, 
+particularly if you want to group or share documents 
+per client or 'project'.
 
-You can create the files for your gist in whatever text format you choose, 
-but [Markdown](https://daringfireball.net/projects/markdown/) (.md) makes a lot of sense 
-because it allows you to include formatting 
-that GitHub will render automatically 
-and which can be easily output to many other formats 
-including .html, .opml, Microsoft Word (.docx), LaTeX 
-and many others. 
-There are several 'flavours' of Markdown which extend the original spec. 
-[GitHub flavored Markdown](https://guides.github.com/features/mastering-markdown/) (GFM) is an obvious one, 
-because it works perfectly with the GitHub platform 
-but my personal favourite is [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) 
-as it's fully compatible with GFM 
-but has a lot more features 
+## Write
+
+With your _mise-en-space_ set you're ready to get writing.
+
+You could crack open your usual writing software 
+and upload that to GitHub if you want, 
+but to get the most out of the workflow 
+you'll want to use [Markdown](https://daringfireball.net/projects/markdown/), 
+just name any file you create on GitHub like so '`file-name.md`'. 
+Markdown removes design from the equation 
+to focus on writing and structure
+without worrying about styling, 
+but is easily converted to 
+.html, Microsoft Word (.docx), LaTeX 
+and many other formats for publishing. 
+You'll also be able to open your documents in _any_ text editor 
+so you're not walled in by Google or Microsoft, 
+There are several extensions or 'flavours' of Markdown, 
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) (GFM) is popular 
+for obvious reasons, 
+but [MultiMarkdown](http://fletcherpenney.net/multimarkdown/), 
+has a more features 
 (e.g. footnotes and references) 
-and is very well supported.
+suited to professional writing.
 
-If you do choose markdown 
-naming your file in the format `yyyy-mm-dd-your-title.md` 
-will make it compatible with [Jekyll](https://jekyllrb.com). 
-Jekyll powers [GitHub Pages](https://pages.github.com), 
-so you can turn any repo into a website.
-You can also add Jekyll-style [YAML frontmatter](https://jekyllrb.com/docs/frontmatter/) to the file, 
-if you want to include important metadata 
-like authors or publish dates. 
-Even if you'll never need a GitHub Page, 
-these conventions are a good best practice.
+Although you can edit files online directly, 
+for longer edits you'll want to do it locally in a nice text editor 
+like GitHub's own [Atom](https://atom.io), [Lightpaper](https://getlightpaper.com), or [Typora](https://typora.io). 
+But first you'll need to download (clone) and sync 
+your files to your computer 
+using [GitHub Desktop](https://desktop.github.com),
+just find the clone url, hit 'Clone Repository' 
+and you're ready to go.
 
-## Writing
+## Write Better
 
-Although you can edit a gist using the online editor, 
-it's rare that you would want to 
-except for the most minor edits. 
-For longer edits you'll want to clone the gist (copy it to your computer) 
-and edit it from there using your preferred text editor (e.g. GitHub's [Atom](https://atom.io)). 
+<!-- Section TBC -->
 
-While writing, you may want to make use of a [Scrivener](https://literatureandlatte.com/scrivener/overview)-style workflow 
+While writing, 
+you may want to make use of a [Scrivener](https://literatureandlatte.com/scrivener/overview)-style workflow 
 by creating multiple smaller documents 
 centred around a specific topic. 
 You can also include a document for your outline, research, references, 
@@ -110,10 +117,9 @@ into the main document
 (with the `yyyy-mm-dd-your-title.md` format) 
 and clean up the files you don't need.
 
-GitHub makes version control easy with [GitHub Desktop](https://desktop.github.com). 
 You might want to practice a little bit 
-and do some background reading on the [GitHub flow](https://guides.github.com/introduction/flow/) for versioning, 
-but you'll be up and running in to time.
+and do some background reading on [Git flow](https://guides.github.com/introduction/flow/) for versioning, 
+but you'll be up and running in to time
 
 GitHub's version control works by comparing differences (diffs) 
 between lines in an old and new version of a document. 
@@ -150,7 +156,18 @@ and running it through [Hemingway](http://www.hemingwayapp.com).
 Hemingway's dedication to minimalism can make your writing sound mechanical though, 
 don't let it tell you to drive into a lake.
 
+
+
+the same way *shisa kanko* (pointing and calling) 
+reduced mistakes on Japanese railways by [85%](https://www.japantimes.co.jp/news/2008/10/21/reference/jr-gestures/#.VL7Xg-d2MTk).
+
+## Version Control
+
+<!-- Section TBC -->
+
 ## Collaboration
+
+<!-- Section TBC -->
 
 ### Multi-authoring
 
@@ -209,6 +226,8 @@ and copy-paste the text into a Gdoc.
 
 ## Publishing
 
+<!-- Section TBC -->
+
 Once your manuscript is completed, 
 you'll likely need to export it into a format you can use elsewhere. 
 Many CMSs will let you copy and paste Markdown 
@@ -226,6 +245,8 @@ you just need to make sure your post conforms to the Jekyll standards
 and either import your gist to the right repo and/or push your changes to master.
 
 ## Revisions
+
+<!-- Section TBC -->
 
 Once your work is published 
 you can continue to revise it, 
@@ -245,6 +266,8 @@ That keeps the issue under your control
 but still acknowledges the original contributor.
 
 ## Summary
+
+<!-- Section TBC -->
 
 * Create a gist for the article 
 
@@ -274,12 +297,13 @@ but still acknowledges the original contributor.
 
 ## Further reading
 
+<!-- Section TBC -->
+
 * [Writing Tech Articles by Jaakko Pallari](https://gist.github.com/jkpl/b2ec253dee7c97ff150487479a7cf7ba)
 * [Writing With Github by Joe Buhlig](https://joebuhlig.com/writing-with-github/)
 * [Top ten reasons GitHub is a great tool for creative writers](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d)
 * [Import gist to repo](https://stackoverflow.com/questions/13671328/transfer-gist-repo-to-github/37144960#37144960)
 * [Waldir Pimenta's Semantic Linebreaker Tool](https://github.com/waldyrious/semantic-linebreaker)
-
 
 ------
 
