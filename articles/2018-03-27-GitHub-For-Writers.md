@@ -229,8 +229,8 @@ In the next articles in this series, we’ll walk through some gritty GitHub sce
 
 ------
 
-####  Tylen is a Service Designer based in ~~Yorkshire~~ ~~Southampton~~ ~~Berlin~~ London.
+####  Tylen is a Service Designer based in London.
 
 *He works with multinational clients on omnichannel retail and b2b projects.*
 
-*To see or read him and his work, head to [tylensthilaire.com](https://tylensthiaire.com/), or [follow on Medium](https://medium.com/@tylensthilaire_). To do the same but with less commitment, head to [dribbble.com](https://dribbble.com/tylensthilaire) or [follow on Twitter](https://twitter.com/tylensthilaire).*
+*To see or read more a about him and his work, head to [tylensthilaire.com](https://tylensthiaire.com/), or [follow on Medium](https://medium.com/@tylensthilaire_). To do the same thing but with less commitment, head to [dribbble.com](https://dribbble.com/tylensthilaire) or [follow on Twitter](https://twitter.com/tylensthilaire).*
