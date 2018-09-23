@@ -197,11 +197,17 @@ and LaTeX for academic submissions.
 
 ------
 
-In the next articles in this series, we’ll walk through some gritty GitHub scenarios and cover more ways to improve your writing.
+In the next articles in this series, 
+we’ll walk through some gritty GitHub scenarios 
+and cover more ways to improve your writing.
 
-*Check out the full series: [GitHub For Writers](https://medium.com/@tylensthilaire_/), [Advanced GitHub For Writers](https://medium.com/@tylensthilaire_/),and [GitHub For Better Writers](https://medium.com/@tylensthilaire_/)*
+*Check out the full series:* 
+*[GitHub For Writers](https://medium.com/@tylensthilaire_/github-for-writers-f3bb865cf150),* 
+*[Advanced GitHub For Writers](https://medium.com/@tylensthilaire_/advanced-github-for-writers-9d041c875768),* 
+*and [GitHub For Better Writers](https://medium.com/@tylensthilaire_/github-for-better-writers-d04d988ab4ae)* 
 
-*Spotted a mistake or got an improvement? [Create an issue on GitHub](https://github.com/tylensthilaire/articles)*
+*Spotted a mistake or got an improvement?* 
+*[Create an issue on GitHub](https://github.com/tylensthilaire/articles)*
 
 #### Summary
 
@@ -229,8 +235,13 @@ In the next articles in this series, we’ll walk through some gritty GitHub sce
 
 ------
 
-####  Tylen is a Service Designer based in London.
+#### Tylen is a Service Designer based in London.
 
 *He works with multinational clients on omnichannel retail and b2b projects.*
 
-*To see or read more a about him and his work, head to [tylensthilaire.com](https://tylensthiaire.com/), or [follow on Medium](https://medium.com/@tylensthilaire_). To do the same thing but with less commitment, head to [dribbble.com](https://dribbble.com/tylensthilaire) or [follow on Twitter](https://twitter.com/tylensthilaire).*
+*To see or read more a about him and his work, *
+*head to [tylensthilaire.com](https://tylensthiaire.com/), *
+*or [follow on Medium](https://medium.com/@tylensthilaire_). *
+*To do the same thing but with less commitment, *
+*head to [dribbble.com](https://dribbble.com/tylensthilaire) *
+*or [follow on Twitter](https://twitter.com/tylensthilaire).*
