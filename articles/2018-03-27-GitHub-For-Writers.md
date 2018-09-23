@@ -6,7 +6,7 @@ updated: 2018-09-23
 tags: [ GitHub, writing ]
 ---
 
-# Github For Writers (Part 1)
+# Github For Writers
 
 GitHub is normally used for managing code 
 across large teams, 
