@@ -5,7 +5,9 @@
 * GitFlow?
 * Issues and Pull Requests
 
+https://saintgimp.org/2013/01/22/merging-two-git-repositories-into-one-repository-without-losing-file-history/
 
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
 Managing issues can be tricky if there are too many
 and they're not fully fleshed out. 
