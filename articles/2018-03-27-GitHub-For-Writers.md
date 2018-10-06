@@ -1,7 +1,7 @@
 ---
 title:  "GitHub For Writers"
 author: "Tylen St Hilaire"
-version: 0.4.0
+version: 0.1.0
 updated: 2018-09-23
 tags: [ GitHub, writing ]
 ---
