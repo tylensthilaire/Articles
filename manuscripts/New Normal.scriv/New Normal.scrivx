@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-15 12:09:08 +0100" ModID="28C3B954-DF3D-4C68-AF1F-26B0855D42E3">
+    <Binder>
+        <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>CADBBBE2-C242-4CC6-B00A-C4D0ACA55203</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.183333,0.09" TimeStamp="2020-05-17 21:29:08 +0100">CADBBBE2-C242-4CC6-B00A-C4D0ACA55203</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.223333,0.043333" TimeStamp="2020-05-17 21:29:08 +0100">A3D5A107-BC44-45E5-BC72-B7A89F6E155D</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.17,0.773267" TimeStamp="2020-05-17 21:29:08 +0100">E925023E-149A-4FB5-B6F0-6F5252943AFB</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-24 15:19:02 +0100">
+                    <Title>Intro</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D" Type="Text" Created="2020-05-17 19:40:17 +0100" Modified="2020-05-23 13:41:19 +0100">
+                    <Title>PESTLE Framework</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,6</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C79124E0-E2B2-4032-95D9-A2145B5EBB25" Type="Text" Created="2020-05-17 21:30:50 +0100" Modified="2020-05-23 16:59:17 +0100">
+                    <Title>Political</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,9</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="89F5386E-63B5-41AF-96FC-0E1E613CBDE6" Type="Text" Created="2020-05-17 21:31:00 +0100" Modified="2020-06-13 13:07:11 +0100">
+                    <Title>Economic</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A" Type="Text" Created="2020-05-23 17:02:40 +0100" Modified="2020-07-05 14:31:24 +0100">
+                            <Title>Staycations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2806,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B444E571-4CA5-4D5C-91A5-6C42D97A8EBA" Type="Text" Created="2020-06-13 13:06:42 +0100" Modified="2020-06-27 21:33:04 +0100">
+                            <Title>Supermarket Supply Chain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1117,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D49B0579-CEC7-409A-A674-10D014EC3676" Type="Text" Created="2020-05-17 21:31:15 +0100" Modified="2020-06-28 12:43:48 +0100">
+                    <Title>Societal</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>149,24</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="273C4613-2EAA-40D9-A546-38B8CB096D27" Type="Text" Created="2020-05-17 19:46:58 +0100" Modified="2020-05-23 19:20:23 +0100">
+                            <Title>Business to Home &amp; Brand as experience</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,16</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="906A6610-A343-46CE-B8C3-12058DE77D00" Type="Text" Created="2020-06-28 12:44:17 +0100" Modified="2020-07-05 16:08:31 +0100">
+                            <Title>Escape To The Country</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>27,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1F7DB77B-E211-4162-B031-8E7D8EB42230" Type="Text" Created="2020-06-27 20:33:37 +0100" Modified="2020-06-27 20:33:44 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>29,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16" Type="Text" Created="2020-05-17 21:31:30 +0100" Modified="2020-08-11 07:57:20 +0100">
+                    <Title>Technological</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58" Type="Text" Created="2020-05-17 21:31:40 +0100" Modified="2020-06-28 12:43:30 +0100">
+                    <Title>Legal</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1334,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4C8DCDFA-D0C8-47E2-AC85-4259D212385E" Type="Text" Created="2020-05-17 21:31:08 +0100" Modified="2020-06-10 19:35:36 +0100">
+                    <Title>Environmental</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B85040EB-8C6F-4E15-ADC4-AF8588DA5ABF" Type="Text" Created="2020-05-23 14:14:53 +0100" Modified="2020-05-24 19:10:25 +0100">
+                            <Title>Sustainable Materials </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1401,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="69B1BDCD-5754-4BB1-B9E0-A509E8A3D23F" Type="Text" Created="2020-05-23 18:17:55 +0100" Modified="2020-06-28 12:49:01 +0100">
+                            <Title>Rewilding</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2128,11</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="929BA9B8-C7C6-4302-920F-D337913C9F2A" Type="Text" Created="2020-06-10 19:34:48 +0100" Modified="2020-08-10 11:15:16 +0100">
+                            <Title>Transport</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>384,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AD554016-1D18-4928-A084-ECBC59BA6846" Type="Text" Created="2020-06-10 19:33:38 +0100" Modified="2020-06-10 22:27:04 +0100">
+                            <Title>Environmental Conclusion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>171,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-05-25 19:24:24 +0100">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>330,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F321154A-47EB-4E22-B963-97A09A47ADBF" Type="ResearchFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>BE2E0680-364F-4034-A1EF-738E1FC583A7</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="1C55E5D8-A295-477F-A488-EFD0EE7D1197" Type="WebArchive" Created="2020-05-17 21:53:38 +0100" Modified="2020-05-17 21:53:38 +0100">
+                    <Title>Brand Is Experience in the Digital Age</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.nngroup.com/articles/brand-experience-ux/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="048A7D30-1BF6-4BBE-B982-8E6181A59CC2" Type="WebArchive" Created="2020-05-17 21:54:55 +0100" Modified="2020-05-17 21:54:55 +0100">
+                    <Title>Coronavirus: Nine good things to come out of COVID-19 pandemic | World News | Sky News</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://news.sky.com/story/coronavirus-nine-good-things-to-come-out-of-covid-19-pandemic-11959667</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0FD5FD92-9824-4B35-B14E-084F686B3EAC" Type="PDF" Created="2020-05-17 14:38:24 +0100" Modified="2020-05-17 14:38:24 +0100">
+                    <Title>Coronavirus is pushing the UK towards a cancer crisis | WIRED UK</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="44559093-BA8A-4B86-A8D3-4DCEB5B04804" Type="PDF" Created="2020-05-17 14:41:13 +0100" Modified="2020-05-17 14:41:13 +0100">
+                    <Title>Coronavirus: Ethnic minorities 'are a third' of patients - BBC News</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="72B28C01-70B8-41F6-9D1C-42B3BE2A77CA" Type="PDF" Created="2020-05-17 14:40:47 +0100" Modified="2020-05-17 14:40:47 +0100">
+                    <Title>Coronavirus: Jeremy Corbyn says he was proved 'right' on public spending - BBC News</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="EE407BAC-DAA9-4715-8696-C79851779B2F" Type="PDF" Created="2020-05-17 14:40:23 +0100" Modified="2020-05-17 14:40:23 +0100">
+                    <Title>Coronavirus: When pubs, restaurants and shops reopen, it may not be plain sailing | Business News | </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>5</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="19D4D03C-5910-44FA-86C9-E9982CF8A321" Type="PDF" Created="2020-05-17 18:49:40 +0100" Modified="2020-05-17 18:49:44 +0100">
+                    <Title>New PDF from Images Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="260C2940-0F69-4586-8F80-7EDB5009794A" Type="WebArchive" Created="2020-05-17 18:54:01 +0100" Modified="2020-05-17 18:54:01 +0100">
+                    <Title>COVID-19 Impact Charts - Google Slides</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://docs.google.com/presentation/d/e/2PACX-1vTg9n7VMzj8RqHqPImPHY3oiVjDLFHJRfYJADZh51fddM0-3FBUr_CRDPBaZ_ezUCZikmEA8GibDJYU/pub?slide=id.g72c71d2fdf_0_0</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="80E3AF44-A5B4-4CF5-812F-29140C6394B8" Type="PDF" Created="2020-05-17 14:37:56 +0100" Modified="2020-05-17 14:37:56 +0100">
+                    <Title>How the Covid-19 pandemic could reshape hospitals</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="9B4F501F-D049-4C2F-B328-A08F2F6D700A" Type="PDF" Created="2020-05-17 14:37:41 +0100" Modified="2020-05-17 18:59:17 +0100">
+                    <Title>How will the coronavirus change our lives?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="69C9CC3D-C41E-4F25-B7F1-D749082E7C66" Type="PDF" Created="2020-05-17 14:40:59 +0100" Modified="2020-05-17 14:40:59 +0100">
+                    <Title>Now We're Spending All This Time Indoors, The Cost Of Poor Housing Becomes Clear | HuffPost UK</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2DA3EAED-E4E3-41CA-AD86-CAB745F9DD42" Type="TrashFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="90640D2F-D256-4540-BBEF-4F2854A05421" Color="0.150563 0.150563 0.150563">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="8BE8BD9D-B8C2-4767-BA4A-CE64F8EB52D2" Color="0.190667 0.172702 0.216529">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="F157C8A5-5618-4A54-AB01-0973D06BE761" Color="0.992 0.973 0.769">
+            <Title>Updated Documents</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="2E1300A3-ACF0-49F6-8804-0CD72365EC41">Heading</Type>
+            <Type ID="C341DE14-70D5-4EB5-9151-9CB18FAA4221">Sub-Heading</Type>
+            <Type ID="9300F1A1-613E-4F56-8953-0B0E4EBA79F7">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>2E1300A3-ACF0-49F6-8804-0CD72365EC41</Type>
+            </Folders>
+            <Containers>
+                <Type>9300F1A1-613E-4F56-8953-0B0E4EBA79F7</Type>
+            </Containers>
+            <Files>
+                <Type>9300F1A1-613E-4F56-8953-0B0E4EBA79F7</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-16 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-08-15 10:49:02 +0100"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-08-15 00:00:00 +0100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <ExternalSyncMap>
+        <SyncItem ID="89F5386E-63B5-41AF-96FC-0E1E613CBDE6">5</SyncItem>
+        <SyncItem ID="273C4613-2EAA-40D9-A546-38B8CB096D27">4</SyncItem>
+        <SyncItem ID="69B1BDCD-5754-4BB1-B9E0-A509E8A3D23F">10</SyncItem>
+        <SyncItem ID="4C8DCDFA-D0C8-47E2-AC85-4259D212385E">8</SyncItem>
+        <SyncItem ID="D49B0579-CEC7-409A-A674-10D014EC3676">3</SyncItem>
+        <SyncItem ID="FA1143BC-5645-4E12-8E50-1AF999507B69">11</SyncItem>
+        <SyncItem ID="B444E571-4CA5-4D5C-91A5-6C42D97A8EBA">13</SyncItem>
+        <SyncItem ID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A">12</SyncItem>
+        <SyncItem ID="929BA9B8-C7C6-4302-920F-D337913C9F2A">16</SyncItem>
+        <SyncItem ID="906A6610-A343-46CE-B8C3-12058DE77D00">14</SyncItem>
+        <SyncItem ID="B85040EB-8C6F-4E15-ADC4-AF8588DA5ABF">9</SyncItem>
+        <SyncItem ID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58">7</SyncItem>
+        <SyncItem ID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D">1</SyncItem>
+        <SyncItem ID="C79124E0-E2B2-4032-95D9-A2145B5EBB25">2</SyncItem>
+        <SyncItem ID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16">6</SyncItem>
+        <SyncItem ID="1F7DB77B-E211-4162-B031-8E7D8EB42230">15</SyncItem>
+        <SyncItem ID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203">0</SyncItem>
+        <SyncItem ID="AD554016-1D18-4928-A084-ECBC59BA6846">17</SyncItem>
+    </ExternalSyncMap>
+</ScrivenerProject>
