@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-16 15:31:51 +0100" ModID="1D39C61C-4BF3-44B0-9EE9-8F848ACA25AF">
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-16 20:58:50 +0100" ModID="30C4ED2D-117E-4794-ABCA-069E7298C244">
     <Binder>
         <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
             <Title>Draft</Title>
@@ -7,7 +7,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>CADBBBE2-C242-4CC6-B00A-C4D0ACA55203</SelectedSubdocumentUUIDs>
+                <SelectedSubdocumentUUIDs>C79124E0-E2B2-4032-95D9-A2145B5EBB25</SelectedSubdocumentUUIDs>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
@@ -17,7 +17,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-08-16 13:09:15 +0100">
+                <BinderItem UUID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-08-16 20:58:50 +0100">
                     <Title>Intro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -26,7 +26,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D" Type="Text" Created="2020-05-17 19:40:17 +0100" Modified="2020-08-16 15:31:51 +0100">
+                <BinderItem UUID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D" Type="Text" Created="2020-05-17 19:40:17 +0100" Modified="2020-08-16 18:27:13 +0100">
                     <Title>Analysis Framework</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -35,7 +35,7 @@
                         <TextSelection>0,6</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C79124E0-E2B2-4032-95D9-A2145B5EBB25" Type="Text" Created="2020-05-17 21:30:50 +0100" Modified="2020-05-23 16:59:17 +0100">
+                <BinderItem UUID="C79124E0-E2B2-4032-95D9-A2145B5EBB25" Type="Text" Created="2020-05-17 21:30:50 +0100" Modified="2020-08-16 19:04:05 +0100">
                     <Title>Political</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -43,6 +43,62 @@
                     <TextSettings>
                         <TextSelection>0,9</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3908869A-BA3A-4336-B500-BAA3BDA99336" Type="Text" Created="2020-08-16 19:01:27 +0100" Modified="2020-08-16 20:55:31 +0100">
+                            <Title>UBI &amp; Furlough</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8187E388-A616-43AA-9817-738F56E72664" Type="Text" Created="2020-08-16 19:01:53 +0100" Modified="2020-08-16 19:02:11 +0100">
+                            <Title>Homelessness &amp; Quality of living</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="822C7B94-02AB-4630-AD80-01951CB3882D" Type="Text" Created="2020-08-16 19:02:14 +0100" Modified="2020-08-16 19:02:17 +0100">
+                            <Title>Broadband</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="249EAD21-0E5E-4E60-905D-8F72503D8A54" Type="Text" Created="2020-08-16 19:02:21 +0100" Modified="2020-08-16 19:02:23 +0100">
+                            <Title>BAME</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9E20B0B6-127F-4F61-9F8F-DFF0F65EADF6" Type="Text" Created="2020-08-16 19:02:27 +0100" Modified="2020-08-16 19:02:37 +0100">
+                            <Title>What is 'Essential' work?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7CC53469-03B9-41AD-9EED-BD010D2FDC9F" Type="Text" Created="2020-08-16 19:02:44 +0100" Modified="2020-08-16 19:04:05 +0100">
+                            <Title>Summary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="89F5386E-63B5-41AF-96FC-0E1E613CBDE6" Type="Text" Created="2020-05-17 21:31:00 +0100" Modified="2020-06-13 13:07:11 +0100">
                     <Title>Economic</Title>
@@ -53,7 +109,7 @@
                         <TextSelection>15,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A" Type="Text" Created="2020-05-23 17:02:40 +0100" Modified="2020-07-05 14:31:24 +0100">
+                        <BinderItem UUID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A" Type="Text" Created="2020-05-23 17:02:40 +0100" Modified="2020-08-16 18:27:13 +0100">
                             <Title>Staycations</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -192,19 +248,9 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>BE2E0680-364F-4034-A1EF-738E1FC583A7</SelectedSubdocumentUUIDs>
+                <SelectedSubdocumentUUIDs>DFA4CCBE-00A7-4C50-A39C-0CE835924125</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="1C55E5D8-A295-477F-A488-EFD0EE7D1197" Type="WebArchive" Created="2020-05-17 21:53:38 +0100" Modified="2020-05-17 21:53:38 +0100">
-                    <Title>Brand Is Experience in the Digital Age</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.nngroup.com/articles/brand-experience-ux/</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
                 <BinderItem UUID="048A7D30-1BF6-4BBE-B982-8E6181A59CC2" Type="WebArchive" Created="2020-05-17 21:54:55 +0100" Modified="2020-05-17 21:54:55 +0100">
                     <Title>Coronavirus: Nine good things to come out of COVID-19 pandemic | World News | Sky News</Title>
                     <MetaData>
@@ -213,46 +259,6 @@
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://news.sky.com/story/coronavirus-nine-good-things-to-come-out-of-covid-19-pandemic-11959667</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="0FD5FD92-9824-4B35-B14E-084F686B3EAC" Type="PDF" Created="2020-05-17 14:38:24 +0100" Modified="2020-05-17 14:38:24 +0100">
-                    <Title>Coronavirus is pushing the UK towards a cancer crisis | WIRED UK</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="44559093-BA8A-4B86-A8D3-4DCEB5B04804" Type="PDF" Created="2020-05-17 14:41:13 +0100" Modified="2020-05-17 14:41:13 +0100">
-                    <Title>Coronavirus: Ethnic minorities 'are a third' of patients - BBC News</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="72B28C01-70B8-41F6-9D1C-42B3BE2A77CA" Type="PDF" Created="2020-05-17 14:40:47 +0100" Modified="2020-05-17 14:40:47 +0100">
-                    <Title>Coronavirus: Jeremy Corbyn says he was proved 'right' on public spending - BBC News</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="EE407BAC-DAA9-4715-8696-C79851779B2F" Type="PDF" Created="2020-05-17 14:40:23 +0100" Modified="2020-05-17 14:40:23 +0100">
-                    <Title>Coronavirus: When pubs, restaurants and shops reopen, it may not be plain sailing | Business News | </Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>5</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="19D4D03C-5910-44FA-86C9-E9982CF8A321" Type="PDF" Created="2020-05-17 18:49:40 +0100" Modified="2020-05-17 18:49:44 +0100">
@@ -295,16 +301,6 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="69C9CC3D-C41E-4F25-B7F1-D749082E7C66" Type="PDF" Created="2020-05-17 14:40:59 +0100" Modified="2020-05-17 14:40:59 +0100">
-                    <Title>Now We're Spending All This Time Indoors, The Cost Of Poor Housing Becomes Clear | HuffPost UK</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>1</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
                 <BinderItem UUID="7D2E8AA2-D3C5-43C0-9A9D-1240EF76622E" Type="WebArchive" Created="2020-08-16 12:09:45 +0100" Modified="2020-08-16 12:09:45 +0100">
                     <Title>What will the world look like post Covid-19? Here are some predictions | Fast Company</Title>
                     <MetaData>
@@ -313,37 +309,6 @@
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://www.fastcompany.co.za/inspiration/what-will-the-world-look-like-post-covid-19-here-are-a-few-predictions-46771675</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="66B96EA1-9344-406C-BE38-F0459BD3EC85" Type="WebArchive" Created="2020-08-16 12:09:58 +0100" Modified="2020-08-16 12:09:58 +0100">
-                    <Title>Has Covid-19 revealed the irrelevance of celebrity culture? | Fast Company</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.fastcompany.co.za/inspiration/has-covid-19-revealed-the-irrelevance-of-celebrity-culture-47981375</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="49F8EA8F-E249-4F73-9486-FD9AF9318D07" Type="WebArchive" Created="2020-08-16 12:10:12 +0100" Modified="2020-08-16 12:10:12 +0100">
-                    <Title>Is this the future of fine dining in the era of social distancing? | Fast Company</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.fastcompany.co.za/business/is-this-the-future-of-fine-dining-in-the-era-of-social-distancing-47912736</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="0C130596-BAB0-4AFE-81C3-F8485DBDF034" Type="WebArchive" Created="2020-08-16 12:10:31 +0100" Modified="2020-08-16 12:10:54 +0100">
-                    <Title>How did the Bubonic Plague make the Italian Renaissance possible? - DailyHistory.org</Title>
-                    <MetaData>
-                        <LabelID>0</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://dailyhistory.org/How_did_the_Bubonic_Plague_make_the_Italian_Renaissance_possible%3F</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="4663B55B-3C4A-4C1C-BD8A-D8F34AE5F6D1" Type="WebArchive" Created="2020-08-16 12:13:17 +0100" Modified="2020-08-16 12:13:17 +0100">
@@ -356,26 +321,6 @@
                         <OriginalURL>https://www.youtube.com/watch?v=FydLdwwnGeI</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="FB2AFCB5-70C5-4856-AE5D-05296C8425CD" Type="WebArchive" Created="2020-08-16 12:13:37 +0100" Modified="2020-08-16 12:13:37 +0100">
-                    <Title>Coronavirus might spell the end of tech hubs. That’s a good thing | WIRED UK</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.wired.co.uk/article/coronavirus-silicon-valley-innovation-clusters</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="53FE8B07-4441-4587-9057-A1A1A553FE35" Type="WebArchive" Created="2020-08-16 12:14:01 +0100" Modified="2020-08-16 12:14:01 +0100">
-                    <Title>What the future of air travel might look like after the coronavirus pandemic</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.msn.com/en-us/travel/news/what-the-future-of-air-travel-might-look-like-after-the-coronavirus-pandemic/ar-BB12hG2b</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
                 <BinderItem UUID="41EAFF83-6C2C-421D-888C-26613DB1D3E4" Type="WebArchive" Created="2020-08-16 12:14:29 +0100" Modified="2020-08-16 12:14:29 +0100">
                     <Title>Social Distancing Has Become the Norm. What Have We Learned? | WIRED</Title>
                     <MetaData>
@@ -386,29 +331,54 @@
                         <OriginalURL>https://www.wired.com/story/social-distancing-has-become-the-norm-what-have-we-learned/</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="D8E1F45E-1939-45E6-BB1D-896F3687C7F4" Type="WebArchive" Created="2020-08-16 12:14:44 +0100" Modified="2020-08-16 12:14:44 +0100">
-                    <Title>When Will It Be Safe to Go to the Gym?</Title>
+                <BinderItem UUID="1C55E5D8-A295-477F-A488-EFD0EE7D1197" Type="WebArchive" Created="2020-05-17 21:53:38 +0100" Modified="2020-08-16 16:08:59 +0100">
+                    <Title>Brand Is Experience in the Digital Age</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <OriginalURL>https://www.vice.com/en_us/article/xg88aj/when-safe-to-go-to-the-gym</OriginalURL>
+                        <OriginalURL>https://www.nngroup.com/articles/brand-experience-ux/</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="187EA39B-C2FF-408E-BF28-5862BE6E15DE" Type="WebArchive" Created="2020-08-16 12:14:51 +0100" Modified="2020-08-16 12:14:51 +0100">
-                    <Title>Five ways to kickstart a green recovery</Title>
+                <BinderItem UUID="EE407BAC-DAA9-4715-8696-C79851779B2F" Type="PDF" Created="2020-05-17 14:40:23 +0100" Modified="2020-08-16 16:08:08 +0100">
+                    <Title>Coronavirus: When pubs, restaurants and shops reopen, it may not be plain sailing | Business News | </Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>5</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="49F8EA8F-E249-4F73-9486-FD9AF9318D07" Type="WebArchive" Created="2020-08-16 12:10:12 +0100" Modified="2020-08-16 16:07:03 +0100">
+                    <Title>Is this the future of fine dining in the era of social distancing? | Fast Company</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <OriginalURL>https://theconversation.com/five-ways-to-kickstart-a-green-recovery-141115</OriginalURL>
+                        <OriginalURL>https://www.fastcompany.co.za/business/is-this-the-future-of-fine-dining-in-the-era-of-social-distancing-47912736</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="712C0E99-2D86-4E11-AFE2-5089ECC304B9" Type="WebArchive" Created="2020-08-16 12:15:17 +0100" Modified="2020-08-16 12:15:17 +0100">
+                <BinderItem UUID="53FE8B07-4441-4587-9057-A1A1A553FE35" Type="WebArchive" Created="2020-08-16 12:14:01 +0100" Modified="2020-08-16 16:06:45 +0100">
+                    <Title>What the future of air travel might look like after the coronavirus pandemic</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.msn.com/en-us/travel/news/what-the-future-of-air-travel-might-look-like-after-the-coronavirus-pandemic/ar-BB12hG2b</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="712C0E99-2D86-4E11-AFE2-5089ECC304B9" Type="WebArchive" Created="2020-08-16 12:15:17 +0100" Modified="2020-08-16 16:06:22 +0100">
                     <Title>How major retailers are overhauling the way you stand in line</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -416,19 +386,10 @@
                         <OriginalURL>https://www.fastcompany.com/90501677/hm-and-footlocker-are-overhauling-how-you-stand-in-line?utm_source=feedly&amp;utm_medium=webfeeds</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="6DFA5832-F6C5-4BD2-8002-73963AF8CB83" Type="WebArchive" Created="2020-08-16 12:16:01 +0100" Modified="2020-08-16 12:16:01 +0100">
-                    <Title>Coronavirus forces San Francisco to put homeless into hotels - Reuters</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.reuters.com/article/us-health-coronavirus-homelessness/coronavirus-forces-san-francisco-to-put-homeless-into-hotels-idUSKBN21L0DY</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="0FB8DE61-0C8A-49FB-90B5-CB493AE63D35" Type="WebArchive" Created="2020-08-16 12:18:07 +0100" Modified="2020-08-16 12:18:07 +0100">
+                <BinderItem UUID="0FB8DE61-0C8A-49FB-90B5-CB493AE63D35" Type="WebArchive" Created="2020-08-16 12:18:07 +0100" Modified="2020-08-16 16:05:54 +0100">
                     <Title>Broadband providers to lift data caps during Covid-19 lockdown | World news | The Guardian</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -436,9 +397,43 @@
                         <OriginalURL>https://www.theguardian.com/world/2020/mar/29/broadband-providers-to-lift-data-caps-during-covid-19-lockdown?CMP=Share_iOSApp_Other</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="8F7715BD-A40D-4B36-A92D-13E7265ACD47" Type="WebArchive" Created="2020-08-16 12:18:34 +0100" Modified="2020-08-16 12:18:34 +0100">
+                <BinderItem UUID="66B96EA1-9344-406C-BE38-F0459BD3EC85" Type="WebArchive" Created="2020-08-16 12:09:58 +0100" Modified="2020-08-16 16:07:08 +0100">
+                    <Title>Has Covid-19 revealed the irrelevance of celebrity culture? | Fast Company</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.fastcompany.co.za/inspiration/has-covid-19-revealed-the-irrelevance-of-celebrity-culture-47981375</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="FB2AFCB5-70C5-4856-AE5D-05296C8425CD" Type="WebArchive" Created="2020-08-16 12:13:37 +0100" Modified="2020-08-16 16:06:51 +0100">
+                    <Title>Coronavirus might spell the end of tech hubs. That’s a good thing | WIRED UK</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.wired.co.uk/article/coronavirus-silicon-valley-innovation-clusters</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="D8E1F45E-1939-45E6-BB1D-896F3687C7F4" Type="WebArchive" Created="2020-08-16 12:14:44 +0100" Modified="2020-08-16 16:06:36 +0100">
+                    <Title>When Will It Be Safe to Go to the Gym?</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.vice.com/en_us/article/xg88aj/when-safe-to-go-to-the-gym</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="8F7715BD-A40D-4B36-A92D-13E7265ACD47" Type="WebArchive" Created="2020-08-16 12:18:34 +0100" Modified="2020-08-16 16:04:28 +0100">
                     <Title>Web Page</Title>
                     <MetaData>
+                        <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -446,24 +441,81 @@
                         <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="DFA4CCBE-00A7-4C50-A39C-0CE835924125" Type="WebArchive" Created="2020-08-16 12:20:40 +0100" Modified="2020-08-16 12:20:40 +0100">
+                <BinderItem UUID="187EA39B-C2FF-408E-BF28-5862BE6E15DE" Type="WebArchive" Created="2020-08-16 12:14:51 +0100" Modified="2020-08-16 16:06:28 +0100">
+                    <Title>Five ways to kickstart a green recovery</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://theconversation.com/five-ways-to-kickstart-a-green-recovery-141115</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0FD5FD92-9824-4B35-B14E-084F686B3EAC" Type="PDF" Created="2020-05-17 14:38:24 +0100" Modified="2020-08-16 16:08:51 +0100">
+                    <Title>Coronavirus is pushing the UK towards a cancer crisis | WIRED UK</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="44559093-BA8A-4B86-A8D3-4DCEB5B04804" Type="PDF" Created="2020-05-17 14:41:13 +0100" Modified="2020-08-16 16:08:28 +0100">
+                    <Title>Coronavirus: Ethnic minorities 'are a third' of patients - BBC News</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="72B28C01-70B8-41F6-9D1C-42B3BE2A77CA" Type="PDF" Created="2020-05-17 14:40:47 +0100" Modified="2020-08-16 16:08:13 +0100">
+                    <Title>Coronavirus: Jeremy Corbyn says he was proved 'right' on public spending - BBC News</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="69C9CC3D-C41E-4F25-B7F1-D749082E7C66" Type="PDF" Created="2020-05-17 14:40:59 +0100" Modified="2020-08-16 16:07:17 +0100">
+                    <Title>Now We're Spending All This Time Indoors, The Cost Of Poor Housing Becomes Clear | HuffPost UK</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="6DFA5832-F6C5-4BD2-8002-73963AF8CB83" Type="WebArchive" Created="2020-08-16 12:16:01 +0100" Modified="2020-08-16 16:06:00 +0100">
+                    <Title>Coronavirus forces San Francisco to put homeless into hotels - Reuters</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.reuters.com/article/us-health-coronavirus-homelessness/coronavirus-forces-san-francisco-to-put-homeless-into-hotels-idUSKBN21L0DY</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="DFA4CCBE-00A7-4C50-A39C-0CE835924125" Type="WebArchive" Created="2020-08-16 12:20:40 +0100" Modified="2020-08-16 16:03:48 +0100">
                     <Title>Coronavirus: Councils in England asked to house all rough sleepers by the weekend | Politics News | Sky News</Title>
                     <MetaData>
+                        <LabelID>0</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://news.sky.com/story/coronavirus-councils-in-england-asked-to-house-all-rough-sleepers-by-the-weekend-11964380</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="EFCF0D66-F966-44FD-9CC0-791EF14293A9" Type="WebArchive" Created="2020-08-16 12:17:01 +0100" Modified="2020-08-16 12:17:01 +0100">
-                    <Title>Universal basic income seems to improve employment and well-being | New Scientist</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
             </Children>
@@ -490,6 +542,28 @@
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://thevoroscope.com/2015/12/28/on-examining-preposterous-futures/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0C130596-BAB0-4AFE-81C3-F8485DBDF034" Type="WebArchive" Created="2020-08-16 12:10:31 +0100" Modified="2020-08-16 12:10:54 +0100">
+                    <Title>How did the Bubonic Plague make the Italian Renaissance possible? - DailyHistory.org</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://dailyhistory.org/How_did_the_Bubonic_Plague_make_the_Italian_Renaissance_possible%3F</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="EFCF0D66-F966-44FD-9CC0-791EF14293A9" Type="WebArchive" Created="2020-08-16 12:17:01 +0100" Modified="2020-08-16 16:03:54 +0100">
+                    <Title>Universal basic income seems to improve employment and well-being | New Scientist</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
             </Children>
@@ -529,12 +603,12 @@
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
-            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
-            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
-            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
-            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
-            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
-            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Political</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Economic</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Social</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Technological</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Legal</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Environmental</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -553,11 +627,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-17 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="225" Characters="1380" Date="2020-08-16 13:09:53 +0100"/>
+        <PreviousSession Words="750" Characters="4684" Date="2020-08-16 15:52:47 +0100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-08-16 00:00:00 +0100">
-        <DraftWordCount>225</DraftWordCount>
-        <DraftCharCount>1380</DraftCharCount>
+        <DraftWordCount>750</DraftWordCount>
+        <DraftCharCount>4684</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
