@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-15 12:09:08 +0100" ModID="28C3B954-DF3D-4C68-AF1F-26B0855D42E3">
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-16 15:31:51 +0100" ModID="1D39C61C-4BF3-44B0-9EE9-8F848ACA25AF">
     <Binder>
         <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
             <Title>Draft</Title>
@@ -13,12 +13,11 @@
                     <FreeformCorkboardDocuments>
                         <IndexCardBinderUUID Position="0.183333,0.09" TimeStamp="2020-05-17 21:29:08 +0100">CADBBBE2-C242-4CC6-B00A-C4D0ACA55203</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="1.223333,0.043333" TimeStamp="2020-05-17 21:29:08 +0100">A3D5A107-BC44-45E5-BC72-B7A89F6E155D</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="0.17,0.773267" TimeStamp="2020-05-17 21:29:08 +0100">E925023E-149A-4FB5-B6F0-6F5252943AFB</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-24 15:19:02 +0100">
+                <BinderItem UUID="CADBBBE2-C242-4CC6-B00A-C4D0ACA55203" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-08-16 13:09:15 +0100">
                     <Title>Intro</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -27,8 +26,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D" Type="Text" Created="2020-05-17 19:40:17 +0100" Modified="2020-05-23 13:41:19 +0100">
-                    <Title>PESTLE Framework</Title>
+                <BinderItem UUID="A3D5A107-BC44-45E5-BC72-B7A89F6E155D" Type="Text" Created="2020-05-17 19:40:17 +0100" Modified="2020-08-16 15:31:51 +0100">
+                    <Title>Analysis Framework</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -63,7 +62,7 @@
                                 <TextSelection>2806,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B444E571-4CA5-4D5C-91A5-6C42D97A8EBA" Type="Text" Created="2020-06-13 13:06:42 +0100" Modified="2020-06-27 21:33:04 +0100">
+                        <BinderItem UUID="B444E571-4CA5-4D5C-91A5-6C42D97A8EBA" Type="Text" Created="2020-06-13 13:06:42 +0100" Modified="2020-08-16 14:28:46 +0100">
                             <Title>Supermarket Supply Chain</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -111,7 +110,7 @@
                         <TextSelection>29,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16" Type="Text" Created="2020-05-17 21:31:30 +0100" Modified="2020-08-11 07:57:20 +0100">
+                <BinderItem UUID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16" Type="Text" Created="2020-05-17 21:31:30 +0100" Modified="2020-08-16 14:14:35 +0100">
                     <Title>Technological</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -147,7 +146,7 @@
                                 <TextSelection>1401,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="69B1BDCD-5754-4BB1-B9E0-A509E8A3D23F" Type="Text" Created="2020-05-23 18:17:55 +0100" Modified="2020-06-28 12:49:01 +0100">
+                        <BinderItem UUID="69B1BDCD-5754-4BB1-B9E0-A509E8A3D23F" Type="Text" Created="2020-05-23 18:17:55 +0100" Modified="2020-08-16 14:29:10 +0100">
                             <Title>Rewilding</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -156,7 +155,7 @@
                                 <TextSelection>2128,11</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="929BA9B8-C7C6-4302-920F-D337913C9F2A" Type="Text" Created="2020-06-10 19:34:48 +0100" Modified="2020-08-10 11:15:16 +0100">
+                        <BinderItem UUID="929BA9B8-C7C6-4302-920F-D337913C9F2A" Type="Text" Created="2020-06-10 19:34:48 +0100" Modified="2020-08-16 14:29:10 +0100">
                             <Title>Transport</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -176,7 +175,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-05-25 19:24:24 +0100">
+                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-08-16 14:28:39 +0100">
                     <Title>Conclusion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -263,7 +262,7 @@
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>1</CurrentPDFPage>
+                        <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="260C2940-0F69-4586-8F80-7EDB5009794A" Type="WebArchive" Created="2020-05-17 18:54:01 +0100" Modified="2020-05-17 18:54:01 +0100">
@@ -283,7 +282,7 @@
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="9B4F501F-D049-4C2F-B328-A08F2F6D700A" Type="PDF" Created="2020-05-17 14:37:41 +0100" Modified="2020-05-17 18:59:17 +0100">
@@ -293,7 +292,7 @@
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="69C9CC3D-C41E-4F25-B7F1-D749082E7C66" Type="PDF" Created="2020-05-17 14:40:59 +0100" Modified="2020-05-17 14:40:59 +0100">
@@ -303,7 +302,168 @@
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="7D2E8AA2-D3C5-43C0-9A9D-1240EF76622E" Type="WebArchive" Created="2020-08-16 12:09:45 +0100" Modified="2020-08-16 12:09:45 +0100">
+                    <Title>What will the world look like post Covid-19? Here are some predictions | Fast Company</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.fastcompany.co.za/inspiration/what-will-the-world-look-like-post-covid-19-here-are-a-few-predictions-46771675</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="66B96EA1-9344-406C-BE38-F0459BD3EC85" Type="WebArchive" Created="2020-08-16 12:09:58 +0100" Modified="2020-08-16 12:09:58 +0100">
+                    <Title>Has Covid-19 revealed the irrelevance of celebrity culture? | Fast Company</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.fastcompany.co.za/inspiration/has-covid-19-revealed-the-irrelevance-of-celebrity-culture-47981375</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="49F8EA8F-E249-4F73-9486-FD9AF9318D07" Type="WebArchive" Created="2020-08-16 12:10:12 +0100" Modified="2020-08-16 12:10:12 +0100">
+                    <Title>Is this the future of fine dining in the era of social distancing? | Fast Company</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.fastcompany.co.za/business/is-this-the-future-of-fine-dining-in-the-era-of-social-distancing-47912736</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0C130596-BAB0-4AFE-81C3-F8485DBDF034" Type="WebArchive" Created="2020-08-16 12:10:31 +0100" Modified="2020-08-16 12:10:54 +0100">
+                    <Title>How did the Bubonic Plague make the Italian Renaissance possible? - DailyHistory.org</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://dailyhistory.org/How_did_the_Bubonic_Plague_make_the_Italian_Renaissance_possible%3F</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="4663B55B-3C4A-4C1C-BD8A-D8F34AE5F6D1" Type="WebArchive" Created="2020-08-16 12:13:17 +0100" Modified="2020-08-16 12:13:17 +0100">
+                    <Title>Unintended Consequences | MinuteEarth Explains - YouTube</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.youtube.com/watch?v=FydLdwwnGeI</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="FB2AFCB5-70C5-4856-AE5D-05296C8425CD" Type="WebArchive" Created="2020-08-16 12:13:37 +0100" Modified="2020-08-16 12:13:37 +0100">
+                    <Title>Coronavirus might spell the end of tech hubs. That’s a good thing | WIRED UK</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.wired.co.uk/article/coronavirus-silicon-valley-innovation-clusters</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="53FE8B07-4441-4587-9057-A1A1A553FE35" Type="WebArchive" Created="2020-08-16 12:14:01 +0100" Modified="2020-08-16 12:14:01 +0100">
+                    <Title>What the future of air travel might look like after the coronavirus pandemic</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.msn.com/en-us/travel/news/what-the-future-of-air-travel-might-look-like-after-the-coronavirus-pandemic/ar-BB12hG2b</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="41EAFF83-6C2C-421D-888C-26613DB1D3E4" Type="WebArchive" Created="2020-08-16 12:14:29 +0100" Modified="2020-08-16 12:14:29 +0100">
+                    <Title>Social Distancing Has Become the Norm. What Have We Learned? | WIRED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.wired.com/story/social-distancing-has-become-the-norm-what-have-we-learned/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="D8E1F45E-1939-45E6-BB1D-896F3687C7F4" Type="WebArchive" Created="2020-08-16 12:14:44 +0100" Modified="2020-08-16 12:14:44 +0100">
+                    <Title>When Will It Be Safe to Go to the Gym?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.vice.com/en_us/article/xg88aj/when-safe-to-go-to-the-gym</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="187EA39B-C2FF-408E-BF28-5862BE6E15DE" Type="WebArchive" Created="2020-08-16 12:14:51 +0100" Modified="2020-08-16 12:14:51 +0100">
+                    <Title>Five ways to kickstart a green recovery</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://theconversation.com/five-ways-to-kickstart-a-green-recovery-141115</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="712C0E99-2D86-4E11-AFE2-5089ECC304B9" Type="WebArchive" Created="2020-08-16 12:15:17 +0100" Modified="2020-08-16 12:15:17 +0100">
+                    <Title>How major retailers are overhauling the way you stand in line</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.fastcompany.com/90501677/hm-and-footlocker-are-overhauling-how-you-stand-in-line?utm_source=feedly&amp;utm_medium=webfeeds</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="6DFA5832-F6C5-4BD2-8002-73963AF8CB83" Type="WebArchive" Created="2020-08-16 12:16:01 +0100" Modified="2020-08-16 12:16:01 +0100">
+                    <Title>Coronavirus forces San Francisco to put homeless into hotels - Reuters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.reuters.com/article/us-health-coronavirus-homelessness/coronavirus-forces-san-francisco-to-put-homeless-into-hotels-idUSKBN21L0DY</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0FB8DE61-0C8A-49FB-90B5-CB493AE63D35" Type="WebArchive" Created="2020-08-16 12:18:07 +0100" Modified="2020-08-16 12:18:07 +0100">
+                    <Title>Broadband providers to lift data caps during Covid-19 lockdown | World news | The Guardian</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.theguardian.com/world/2020/mar/29/broadband-providers-to-lift-data-caps-during-covid-19-lockdown?CMP=Share_iOSApp_Other</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="8F7715BD-A40D-4B36-A92D-13E7265ACD47" Type="WebArchive" Created="2020-08-16 12:18:34 +0100" Modified="2020-08-16 12:18:34 +0100">
+                    <Title>Web Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="DFA4CCBE-00A7-4C50-A39C-0CE835924125" Type="WebArchive" Created="2020-08-16 12:20:40 +0100" Modified="2020-08-16 12:20:40 +0100">
+                    <Title>Coronavirus: Councils in England asked to house all rough sleepers by the weekend | Politics News | Sky News</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://news.sky.com/story/coronavirus-councils-in-england-asked-to-house-all-rough-sleepers-by-the-weekend-11964380</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="EFCF0D66-F966-44FD-9CC0-791EF14293A9" Type="WebArchive" Created="2020-08-16 12:17:01 +0100" Modified="2020-08-16 12:17:01 +0100">
+                    <Title>Universal basic income seems to improve employment and well-being | New Scientist</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
             </Children>
@@ -313,6 +473,26 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="C72E9864-A6EA-4188-8B74-04E9035A929B" Type="Text" Created="2020-08-16 12:13:29 +0100" Modified="2020-08-16 12:13:29 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E464AC62-65AA-4899-BA73-20AAB5A8CC66" Type="WebArchive" Created="2020-08-16 12:09:19 +0100" Modified="2020-08-16 12:09:19 +0100">
+                    <Title>On examining Preposterous! futures – The Voroscope</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://thevoroscope.com/2015/12/28/on-examining-preposterous-futures/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -372,12 +552,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-16 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-08-15 10:49:02 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-17 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="225" Characters="1380" Date="2020-08-16 13:09:53 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-08-15 00:00:00 +0100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2020-08-16 00:00:00 +0100">
+        <DraftWordCount>225</DraftWordCount>
+        <DraftCharCount>1380</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
