@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-28 21:06:33 +0100" ModID="B13CAA1B-E277-4A70-B94C-C7533950264F">
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-28 21:30:04 +0100" ModID="CD06E328-8C33-463F-9526-EED111E51ED3">
     <Binder>
         <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
             <Title>Draft</Title>
@@ -98,7 +98,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B02C56C2-EF3B-4929-A103-69AEA849FB7F" Type="Text" Created="2020-08-28 20:41:58 +0100" Modified="2020-08-28 21:06:33 +0100">
+                        <BinderItem UUID="B02C56C2-EF3B-4929-A103-69AEA849FB7F" Type="Text" Created="2020-08-28 20:41:58 +0100" Modified="2020-08-28 21:26:26 +0100">
                             <Title>Summary</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -240,7 +240,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-08-16 14:28:39 +0100">
+                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-08-28 21:30:04 +0100">
                     <Title>Conclusion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -436,17 +436,6 @@
                         <OriginalURL>https://www.vice.com/en_us/article/xg88aj/when-safe-to-go-to-the-gym</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="8F7715BD-A40D-4B36-A92D-13E7265ACD47" Type="WebArchive" Created="2020-08-16 12:18:34 +0100" Modified="2020-08-16 16:04:28 +0100">
-                    <Title>Web Page</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
                 <BinderItem UUID="187EA39B-C2FF-408E-BF28-5862BE6E15DE" Type="WebArchive" Created="2020-08-16 12:14:51 +0100" Modified="2020-08-16 16:06:28 +0100">
                     <Title>Five ways to kickstart a green recovery</Title>
                     <MetaData>
@@ -590,6 +579,27 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem UUID="8F7715BD-A40D-4B36-A92D-13E7265ACD47" Type="WebArchive" Created="2020-08-16 12:18:34 +0100" Modified="2020-08-16 16:04:28 +0100">
+                    <Title>Web Page</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="FE33EE3A-6A12-4B3D-830D-F16BE593507B" Type="WebArchive" Created="2020-08-28 21:19:27 +0100" Modified="2020-08-28 21:19:27 +0100">
+                    <Title>Web Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -652,11 +662,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-29 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="718" Characters="4292" Date="2020-08-28 13:35:47 +0100"/>
+        <PreviousSession Words="735" Characters="4414" Date="2020-08-28 13:35:47 +0100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-08-28 00:00:00 +0100">
-        <DraftWordCount>718</DraftWordCount>
-        <DraftCharCount>4292</DraftCharCount>
+        <DraftWordCount>735</DraftWordCount>
+        <DraftCharCount>4414</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
