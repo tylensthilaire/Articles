@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-28 21:30:04 +0100" ModID="CD06E328-8C33-463F-9526-EED111E51ED3">
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-31 14:13:39 +0100" ModID="6E38771E-15D6-4839-B6C3-24E9EF4B198B">
     <Binder>
         <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
             <Title>Draft</Title>
@@ -17,7 +17,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="02AF8F7D-82AE-4397-B779-727AC077EB47" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-08-28 20:02:59 +0100">
+                <BinderItem UUID="02AF8F7D-82AE-4397-B779-727AC077EB47" Type="Text" Created="2020-05-11 09:01:25 +0100" Modified="2020-08-31 10:33:00 +0100">
                     <Title>Frontmatter</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -62,7 +62,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8187E388-A616-43AA-9817-738F56E72664" Type="Text" Created="2020-08-16 19:01:53 +0100" Modified="2020-08-28 20:14:01 +0100">
+                        <BinderItem UUID="8187E388-A616-43AA-9817-738F56E72664" Type="Text" Created="2020-08-16 19:01:53 +0100" Modified="2020-08-30 16:47:49 +0100">
                             <Title>Homelessness &amp; Quality of living</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -71,7 +71,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="822C7B94-02AB-4630-AD80-01951CB3882D" Type="Text" Created="2020-08-16 19:02:14 +0100" Modified="2020-08-16 19:02:17 +0100">
+                        <BinderItem UUID="822C7B94-02AB-4630-AD80-01951CB3882D" Type="Text" Created="2020-08-16 19:02:14 +0100" Modified="2020-08-31 14:13:39 +0100">
                             <Title>Broadband</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -80,25 +80,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="249EAD21-0E5E-4E60-905D-8F72503D8A54" Type="Text" Created="2020-08-16 19:02:21 +0100" Modified="2020-08-16 19:02:23 +0100">
-                            <Title>BAME</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="9E20B0B6-127F-4F61-9F8F-DFF0F65EADF6" Type="Text" Created="2020-08-16 19:02:27 +0100" Modified="2020-08-28 20:42:03 +0100">
-                            <Title>What is 'Essential' work?</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B02C56C2-EF3B-4929-A103-69AEA849FB7F" Type="Text" Created="2020-08-28 20:41:58 +0100" Modified="2020-08-28 21:26:26 +0100">
+                        <BinderItem UUID="B02C56C2-EF3B-4929-A103-69AEA849FB7F" Type="Text" Created="2020-08-28 20:41:58 +0100" Modified="2020-08-31 14:02:57 +0100">
                             <Title>Summary</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -109,7 +91,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="89F5386E-63B5-41AF-96FC-0E1E613CBDE6" Type="Text" Created="2020-05-17 21:31:00 +0100" Modified="2020-08-28 20:22:39 +0100">
+                <BinderItem UUID="89F5386E-63B5-41AF-96FC-0E1E613CBDE6" Type="Text" Created="2020-05-17 21:31:00 +0100" Modified="2020-08-30 16:43:36 +0100">
                     <Title>Economic</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -118,7 +100,7 @@
                         <TextSelection>15,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A" Type="Text" Created="2020-05-23 17:02:40 +0100" Modified="2020-08-16 18:27:13 +0100">
+                        <BinderItem UUID="83BE05C9-BFDB-4983-8A7B-6BC80AFC165A" Type="Text" Created="2020-05-23 17:02:40 +0100" Modified="2020-08-30 11:54:00 +0100">
                             <Title>Staycations</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -156,7 +138,7 @@
                                 <TextSelection>0,16</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="906A6610-A343-46CE-B8C3-12058DE77D00" Type="Text" Created="2020-06-28 12:44:17 +0100" Modified="2020-07-05 16:08:31 +0100">
+                        <BinderItem UUID="906A6610-A343-46CE-B8C3-12058DE77D00" Type="Text" Created="2020-06-28 12:44:17 +0100" Modified="2020-08-30 11:55:14 +0100">
                             <Title>Escape To The Country</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -175,7 +157,7 @@
                         <TextSelection>29,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16" Type="Text" Created="2020-05-17 21:31:30 +0100" Modified="2020-08-16 14:14:35 +0100">
+                <BinderItem UUID="9F3E47E6-253C-4C8F-A014-0B0BF9A83A16" Type="Text" Created="2020-05-17 21:31:30 +0100" Modified="2020-08-30 16:43:36 +0100">
                     <Title>Technological</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -184,7 +166,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58" Type="Text" Created="2020-05-17 21:31:40 +0100" Modified="2020-06-28 12:43:30 +0100">
+                <BinderItem UUID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58" Type="Text" Created="2020-05-17 21:31:40 +0100" Modified="2020-08-30 16:44:21 +0100">
                     <Title>Legal</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -240,7 +222,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-08-28 21:30:04 +0100">
+                <BinderItem UUID="FA1143BC-5645-4E12-8E50-1AF999507B69" Type="Text" Created="2020-05-17 21:55:30 +0100" Modified="2020-08-31 13:38:38 +0100">
                     <Title>Conclusion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -257,9 +239,10 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="048A7D30-1BF6-4BBE-B982-8E6181A59CC2" Type="WebArchive" Created="2020-05-17 21:54:55 +0100" Modified="2020-05-17 21:54:55 +0100">
+                <BinderItem UUID="048A7D30-1BF6-4BBE-B982-8E6181A59CC2" Type="WebArchive" Created="2020-05-17 21:54:55 +0100" Modified="2020-08-30 11:41:11 +0100">
                     <Title>Coronavirus: Nine good things to come out of COVID-19 pandemic | World News | Sky News</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -267,9 +250,10 @@
                         <OriginalURL>https://news.sky.com/story/coronavirus-nine-good-things-to-come-out-of-covid-19-pandemic-11959667</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="19D4D03C-5910-44FA-86C9-E9982CF8A321" Type="PDF" Created="2020-05-17 18:49:40 +0100" Modified="2020-05-17 18:49:44 +0100">
+                <BinderItem UUID="19D4D03C-5910-44FA-86C9-E9982CF8A321" Type="PDF" Created="2020-05-17 18:49:40 +0100" Modified="2020-08-30 11:41:14 +0100">
                     <Title>New PDF from Images Output</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
@@ -277,9 +261,10 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="260C2940-0F69-4586-8F80-7EDB5009794A" Type="WebArchive" Created="2020-05-17 18:54:01 +0100" Modified="2020-05-17 18:54:01 +0100">
+                <BinderItem UUID="260C2940-0F69-4586-8F80-7EDB5009794A" Type="WebArchive" Created="2020-05-17 18:54:01 +0100" Modified="2020-08-30 11:41:38 +0100">
                     <Title>COVID-19 Impact Charts - Google Slides</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -287,9 +272,10 @@
                         <OriginalURL>https://docs.google.com/presentation/d/e/2PACX-1vTg9n7VMzj8RqHqPImPHY3oiVjDLFHJRfYJADZh51fddM0-3FBUr_CRDPBaZ_ezUCZikmEA8GibDJYU/pub?slide=id.g72c71d2fdf_0_0</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="80E3AF44-A5B4-4CF5-812F-29140C6394B8" Type="PDF" Created="2020-05-17 14:37:56 +0100" Modified="2020-05-17 14:37:56 +0100">
+                <BinderItem UUID="80E3AF44-A5B4-4CF5-812F-29140C6394B8" Type="PDF" Created="2020-05-17 14:37:56 +0100" Modified="2020-08-30 11:42:31 +0100">
                     <Title>How the Covid-19 pandemic could reshape hospitals</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
@@ -297,9 +283,10 @@
                         <CurrentPDFPage>3</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="9B4F501F-D049-4C2F-B328-A08F2F6D700A" Type="PDF" Created="2020-05-17 14:37:41 +0100" Modified="2020-05-17 18:59:17 +0100">
+                <BinderItem UUID="9B4F501F-D049-4C2F-B328-A08F2F6D700A" Type="PDF" Created="2020-05-17 14:37:41 +0100" Modified="2020-08-30 11:42:08 +0100">
                     <Title>How will the coronavirus change our lives?</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>pdf</FileExtension>
                     </MetaData>
@@ -307,9 +294,10 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="7D2E8AA2-D3C5-43C0-9A9D-1240EF76622E" Type="WebArchive" Created="2020-08-16 12:09:45 +0100" Modified="2020-08-16 12:09:45 +0100">
+                <BinderItem UUID="7D2E8AA2-D3C5-43C0-9A9D-1240EF76622E" Type="WebArchive" Created="2020-08-16 12:09:45 +0100" Modified="2020-08-30 11:42:15 +0100">
                     <Title>What will the world look like post Covid-19? Here are some predictions | Fast Company</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -317,9 +305,10 @@
                         <OriginalURL>https://www.fastcompany.co.za/inspiration/what-will-the-world-look-like-post-covid-19-here-are-a-few-predictions-46771675</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="4663B55B-3C4A-4C1C-BD8A-D8F34AE5F6D1" Type="WebArchive" Created="2020-08-16 12:13:17 +0100" Modified="2020-08-16 12:13:17 +0100">
+                <BinderItem UUID="4663B55B-3C4A-4C1C-BD8A-D8F34AE5F6D1" Type="WebArchive" Created="2020-08-16 12:13:17 +0100" Modified="2020-08-30 11:42:20 +0100">
                     <Title>Unintended Consequences | MinuteEarth Explains - YouTube</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -327,9 +316,10 @@
                         <OriginalURL>https://www.youtube.com/watch?v=FydLdwwnGeI</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="41EAFF83-6C2C-421D-888C-26613DB1D3E4" Type="WebArchive" Created="2020-08-16 12:14:29 +0100" Modified="2020-08-16 12:14:29 +0100">
+                <BinderItem UUID="41EAFF83-6C2C-421D-888C-26613DB1D3E4" Type="WebArchive" Created="2020-08-16 12:14:29 +0100" Modified="2020-08-30 11:42:24 +0100">
                     <Title>Social Distancing Has Become the Norm. What Have We Learned? | WIRED</Title>
                     <MetaData>
+                        <LabelID>6</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>webarchive</FileExtension>
                     </MetaData>
@@ -445,28 +435,6 @@
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://theconversation.com/five-ways-to-kickstart-a-green-recovery-141115</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="0FD5FD92-9824-4B35-B14E-084F686B3EAC" Type="PDF" Created="2020-05-17 14:38:24 +0100" Modified="2020-08-16 16:08:51 +0100">
-                    <Title>Coronavirus is pushing the UK towards a cancer crisis | WIRED UK</Title>
-                    <MetaData>
-                        <LabelID>0</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="44559093-BA8A-4B86-A8D3-4DCEB5B04804" Type="PDF" Created="2020-05-17 14:41:13 +0100" Modified="2020-08-16 16:08:28 +0100">
-                    <Title>Coronavirus: Ethnic minorities 'are a third' of patients - BBC News</Title>
-                    <MetaData>
-                        <LabelID>0</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
             </Children>
@@ -600,6 +568,52 @@
                         <OriginalURL>https://twitter.com/motherofnaggins/status/1243108506603073537</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem UUID="DCF19E64-8E9E-47CC-80F2-76EE2B552833" Type="Text" Created="2020-08-30 11:39:54 +0100" Modified="2020-08-30 11:40:55 +0100">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="44559093-BA8A-4B86-A8D3-4DCEB5B04804" Type="PDF" Created="2020-05-17 14:41:13 +0100" Modified="2020-08-30 11:39:01 +0100">
+                    <Title>Coronavirus: Ethnic minorities 'are a third' of patients - BBC News</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="0FD5FD92-9824-4B35-B14E-084F686B3EAC" Type="PDF" Created="2020-05-17 14:38:24 +0100" Modified="2020-08-30 11:39:06 +0100">
+                    <Title>Coronavirus is pushing the UK towards a cancer crisis | WIRED UK</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="249EAD21-0E5E-4E60-905D-8F72503D8A54" Type="Text" Created="2020-08-16 19:02:21 +0100" Modified="2020-08-16 19:02:23 +0100">
+                    <Title>BAME</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9E20B0B6-127F-4F61-9F8F-DFF0F65EADF6" Type="Text" Created="2020-08-16 19:02:27 +0100" Modified="2020-08-28 20:42:03 +0100">
+                    <Title>What is 'Essential' work?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -644,6 +658,7 @@
             <Label ID="3" Color="0.715855 0.948712 0.697692">Technological</Label>
             <Label ID="4" Color="0.702319 0.888276 0.974252">Legal</Label>
             <Label ID="5" Color="0.957566 0.766747 0.999616">Environmental</Label>
+            <Label ID="6" Color="0.501961 0.501961 0.501961">Other</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -661,12 +676,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-29 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="735" Characters="4414" Date="2020-08-28 13:35:47 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-01 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="521" Characters="3232" Date="2020-08-31 09:55:36 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-08-28 00:00:00 +0100">
-        <DraftWordCount>735</DraftWordCount>
-        <DraftCharCount>4414</DraftCharCount>
+    <RecentWritingHistory Date="2020-08-31 00:00:00 +0100">
+        <DraftWordCount>521</DraftWordCount>
+        <DraftCharCount>3232</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

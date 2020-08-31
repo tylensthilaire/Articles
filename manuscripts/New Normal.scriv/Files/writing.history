@@ -11,5 +11,7 @@
     <Day dwc="-2" dcc="-24" owc="0" occ="0">2020-07-05</Day>
     <Day dwc="0" dcc="-1" owc="0" occ="0">2020-08-11</Day>
     <Day dwc="750" dcc="4684" dtwc="0" owc="0" occ="0" dtcc="0">2020-08-16</Day>
-    <Day dwc="2" dcc="14" owc="0" occ="0">2020-08-28</Day>
+    <Day dwc="735" dcc="4414" dtwc="5767" owc="0" occ="0" dtcc="36222">2020-08-28</Day>
+    <Day dwc="225" dcc="1411" dtwc="5992" owc="0" occ="0" dtcc="37633">2020-08-30</Day>
+    <Day dwc="2" dcc="21" owc="0" occ="0">2020-08-31</Day>
 </WritingHistory>
