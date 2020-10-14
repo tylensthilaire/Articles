@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-31 14:13:39 +0100" ModID="6E38771E-15D6-4839-B6C3-24E9EF4B198B">
+<ScrivenerProject Identifier="AA2683C0-262A-401A-8CD5-F6BF73FFB6AC" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Tys-MBP-2016" Author="Tylen St Hilaire" Modified="2020-08-31 14:31:40 +0100" ModID="2BF55B5B-FFD9-4793-A45A-A0676BCBF029">
     <Binder>
         <BinderItem UUID="B91FF743-3FF8-48F6-A6E3-C4A3AD5E55C5" Type="DraftFolder" Created="2020-05-11 09:01:25 +0100" Modified="2020-05-11 09:01:25 +0100">
             <Title>Draft</Title>
@@ -71,7 +71,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="822C7B94-02AB-4630-AD80-01951CB3882D" Type="Text" Created="2020-08-16 19:02:14 +0100" Modified="2020-08-31 14:13:39 +0100">
+                        <BinderItem UUID="822C7B94-02AB-4630-AD80-01951CB3882D" Type="Text" Created="2020-08-16 19:02:14 +0100" Modified="2020-08-31 14:31:40 +0100">
                             <Title>Broadband</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -166,7 +166,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58" Type="Text" Created="2020-05-17 21:31:40 +0100" Modified="2020-08-30 16:44:21 +0100">
+                <BinderItem UUID="8A2AE073-F0FE-4890-AB7B-26C89B4B3D58" Type="Text" Created="2020-05-17 21:31:40 +0100" Modified="2020-08-31 14:15:49 +0100">
                     <Title>Legal</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -238,6 +238,9 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>80E3AF44-A5B4-4CF5-812F-29140C6394B8</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="048A7D30-1BF6-4BBE-B982-8E6181A59CC2" Type="WebArchive" Created="2020-05-17 21:54:55 +0100" Modified="2020-08-30 11:41:11 +0100">
                     <Title>Coronavirus: Nine good things to come out of COVID-19 pandemic | World News | Sky News</Title>
@@ -380,17 +383,6 @@
                     </MetaData>
                     <MediaSettings>
                         <OriginalURL>https://www.fastcompany.com/90501677/hm-and-footlocker-are-overhauling-how-you-stand-in-line?utm_source=feedly&amp;utm_medium=webfeeds</OriginalURL>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem UUID="0FB8DE61-0C8A-49FB-90B5-CB493AE63D35" Type="WebArchive" Created="2020-08-16 12:18:07 +0100" Modified="2020-08-16 16:05:54 +0100">
-                    <Title>Broadband providers to lift data caps during Covid-19 lockdown | World news | The Guardian</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>webarchive</FileExtension>
-                    </MetaData>
-                    <MediaSettings>
-                        <OriginalURL>https://www.theguardian.com/world/2020/mar/29/broadband-providers-to-lift-data-caps-during-covid-19-lockdown?CMP=Share_iOSApp_Other</OriginalURL>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem UUID="66B96EA1-9344-406C-BE38-F0459BD3EC85" Type="WebArchive" Created="2020-08-16 12:09:58 +0100" Modified="2020-08-16 16:07:08 +0100">
@@ -614,6 +606,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0FB8DE61-0C8A-49FB-90B5-CB493AE63D35" Type="WebArchive" Created="2020-08-16 12:18:07 +0100" Modified="2020-08-16 16:05:54 +0100">
+                    <Title>Broadband providers to lift data caps during Covid-19 lockdown | World news | The Guardian</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.theguardian.com/world/2020/mar/29/broadband-providers-to-lift-data-caps-during-covid-19-lockdown?CMP=Share_iOSApp_Other</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -677,11 +680,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-05-11 09:01:24 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-01 01:00:00 +0100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="521" Characters="3232" Date="2020-08-31 09:55:36 +0100"/>
+        <PreviousSession Words="0" Characters="0" Date="2020-09-03 23:11:19 +0100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-08-31 00:00:00 +0100">
-        <DraftWordCount>521</DraftWordCount>
-        <DraftCharCount>3232</DraftCharCount>
+    <RecentWritingHistory Date="2020-09-06 00:00:00 +0100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
