@@ -18,5 +18,7 @@ One sticking point for me is the inconsistent naming. Convention suggests that t
 
 Nobody will be dissuaded by the name though. Apple have make a cable-like offering feel like Amazon Prime – where the core service is so appealing that everything else feels free. It’s an interesting portent of what life might be like with Apple as a services company.
 
+---
+
 [^1]:See [Sketch](https://web.archive.org/web/20201014135722/https://www.sketch.com/pricing/) as an example of software pricing done right.
 [^2]: The ‘+’ has a certain *‘Ronseal’* quality to it. It’s what you know, plus some more. Does what it says on the tin.
