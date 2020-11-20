@@ -13,7 +13,7 @@ SCRNPRNT
 It's hard to know quite what SCRNPRNT's <cite>The Garden of Earthly Delights</cite> is.
 Ostensibly a chatroom,
 but kind of an ‘open world’ game
-and sort of an homage to the [Hyronimous Bosch work <cite>of the same name</cite>](https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609).
+and sort of an homage to the [<cite>Hyronimous Bosch work of the same name</cite>](https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609).
 
 I was drawn to this as a huge fan on Bosch's work and an equally large fan of <cite>Age of Empires</cite>.
 Aesthetically,
