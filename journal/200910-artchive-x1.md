@@ -4,7 +4,7 @@ description: An online chatroom for the animals of Age of Empires II, with a con
 date: 2020-09-10
 ---
 
-![A typical scene from The Garden of Earthly Delights, where animals and people inhabit three low-resolution landscapes: a paradise, a savannah and a hellscape](../assets/The-Garden-of-Earthly-Delights.gif)  
+![A typical scene from The Garden of Earthly Delights, where animals and people inhabit three low-resolution landscapes: a paradise, a savannah and a hellscape](../assets/garden-of-earthly-delights.gif)  
 
 [<cite>The Garden of Earthly Delights</cite>](http://scrnprnt.ca/EarthlyDelightsPresskit.html)  
 SCRNPRNT  
