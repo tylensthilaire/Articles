@@ -1,17 +1,18 @@
 ---
-title: The Garden of Earthly Delights
+title: How Google’s passage indexing benefits SEO, UX and content strategy
 description: Google’s recent updates free writers and designers to focus on users instead of bots.
 date: 2020-09-10
 readingTime: 2:00
+tags: ["SEO", "Content Strategy", "UX"]
 ---
 
 # How Google’s passage indexing benefits SEO, UX and content strategy
 
 ## TLDR
 
-* Google will start ranking individual passages from pages.
-* Pages with a relevant passage may rank for a query, even if the page as a whole isn’t the most relevant.
-* Content professionals can focus on writing and organising information for users, not crawlers.
+- Google will start ranking individual passages from pages.
+- Pages with a relevant passage may rank for a query, even if the page as a whole isn’t the most relevant.
+- Content professionals can focus on writing and organising information for users, not crawlers.
 
 Google recently published a story about [using AI to make search results more powerful](https://blog.google/products/search/search-on/).
 Soon, they’ll better decipher misspelled words,

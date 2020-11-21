@@ -1,13 +1,26 @@
 {
   "cSpell.words": [
-    "google"
-  ]
+    "clickthrough",
+    "google",
+    "pageviews"
+  ],
   "cSpell.ignoreWords": [
     "bouche",
     "dahmer",
+    "espn",
+    "gurman",
+    "original",
+    "original’s",
     "orkan",
     "pelling",
-    "telhan"
+    "ronseal",
+    "s",
+    "seos",
+    "serp",
+    "stiffing",
+    "telhan",
+    "tldr",
+    "ymyl"
   ],
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": true
@@ -17,6 +30,7 @@
   "markdownlint.config": {
     "default": true,
     "MD013": false,
+    "MD025": false,
     "MD026": { "punctuation": ".,;:。，；：！？" },
     "MD033": false
   }
