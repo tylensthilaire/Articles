@@ -2,4 +2,22 @@
   "cSpell.words": [
     "google"
   ]
+  "cSpell.ignoreWords": [
+    "bouche",
+    "dahmer",
+    "orkan",
+    "pelling",
+    "telhan"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": true
+  },
+  "editor.formatOnSave": true,
+  "cSpell.language": "en-GB",
+  "markdownlint.config": {
+    "default": true,
+    "MD013": false,
+    "MD026": { "punctuation": ".,;:。，；：！？" },
+    "MD033": false
+  }
 }
