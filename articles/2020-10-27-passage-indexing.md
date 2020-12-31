@@ -4,6 +4,7 @@ description: Google’s recent updates free writers and designers to focus on us
 date: 2020-09-10
 readingTime: 2:00
 tags: ["SEO", "Content Strategy", "UX"]
+version: 1.0.0
 ---
 
 # How Google’s passage indexing benefits SEO, UX and content strategy
