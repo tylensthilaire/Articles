@@ -1,3 +1,13 @@
+---
+title: Content management lifecycles for the modern web
+description: The trend of increasing complexity in media platforms requires a more flexible,
+future-proof framework than any existing linear model.
+date: 2020-07-02
+readingTime: 15:00
+tags: ["Content strategy"]
+version: 0.0.1
+---
+
 # Content management lifecycles for the modern web
 
 **TLDR:** The trend of increasing complexity in media platforms requires a more flexible,
