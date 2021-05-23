@@ -6,6 +6,9 @@ date: 2020-07-02
 readingTime: 15:00
 tags: ["Content strategy"]
 version: 0.0.1
+- [x] First draft
+- [ ] Proof
+- [ ] Add images
 ---
 
 # Content management lifecycles for the modern web
