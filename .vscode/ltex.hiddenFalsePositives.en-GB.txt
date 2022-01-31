@@ -1,0 +1,4 @@
+{"rule":"DASH_RULE","sentence":"^\\QTLDR: Using \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q and its \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q element, you can skirt GitHub's .html sanitization and use the full .html spec – though you still probably shouldn't.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSince GitHub enabled profile READMEs, those reasons have, for better or worse, ballooned.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QMany READMEs eschew the minimalism intrinsic to Markdown and instead evoke the halcyon chaos of Geocities, MySpace and Tumblr.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QMany READMEs eschew the minimalism intrinsic to Markdown and instead evoke the halcyon chaos of Geocities, MySpace and Tumblr.\\E$"}
